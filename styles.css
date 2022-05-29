@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.topnav h2 {
+  float: center;
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: #11eedd;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+
+section{
+  padding: 0 100px 0 0;
+  margin: 50px 0px 0px 30px;
+}
+
+section h3{
+  margin:0px 20px;
+  font-size: 20px;
+  font-family: 'Kanit', sans-serif;
+}
+
+section p {
+  margin: 0 10px 0 20px;
+  line-height: 32px;
+  font-size: 18px;
+  font-family: 'Quicksand', sans-serif;
+  white-space: normal;
+}
+
+
+img{
+  width: 600px;
+  height: 300px;
+  margin: 10px;
+  padding: 20px;
+}
+
+img .RedMosque{
+  width:300px;
+}
